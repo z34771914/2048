@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PointProgressBar">
+        <attr name="pointNormalColor" format="color"></attr>
+        <attr name="pointDangerColor" format="color"></attr>
+        <attr name="pointRadius" format="dimension"></attr>
+        <attr name="maxValue" format="integer"></attr>
+    </declare-styleable>
+</resources>

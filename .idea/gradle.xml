@@ -8,15 +8,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animatortest" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/hellochart" />
+            <option value="$PROJECT_DIR$/mpandroidcharttest" />
+            <option value="$PROJECT_DIR$/retrofittest" />
+            <option value="$PROJECT_DIR$/secret" />
+            <option value="$PROJECT_DIR$/williamchart" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

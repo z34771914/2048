@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.zhoujiazhen.mpandroidcharttest.MainActivity">
+
+    <Button
+        android:id="@+id/btnLineChart"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="折线图"/>
+
+    <Button
+        android:id="@+id/btnBarChart"
+        android:text="@string/bar_chart"
+        android:layout_width="100dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:text="@string/pie_chart"
+        android:id="@+id/btnPieChart"
+        android:layout_width="100dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:text="登录界面"
+        android:id="@+id/btnLoginActivity"
+        android:layout_width="100dp"
+        android:layout_height="50dp"/>
+
+    <com.example.zhoujiazhen.mpandroidcharttest.view.PointProgressBar
+        android:id="@+id/pgProgressBar"
+        app:pointRadius="4dp"
+        android:padding="20dp"
+        android:layout_width="300dp"
+        android:layout_height="100dp"/>
+</LinearLayout>

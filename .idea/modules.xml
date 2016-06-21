@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyTestProject.iml" filepath="$PROJECT_DIR$/MyTestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatortest/animatortest.iml" filepath="$PROJECT_DIR$/animatortest/animatortest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellochart/hellochart.iml" filepath="$PROJECT_DIR$/hellochart/hellochart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpandroidcharttest/mpandroidcharttest.iml" filepath="$PROJECT_DIR$/mpandroidcharttest/mpandroidcharttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofittest/retrofittest.iml" filepath="$PROJECT_DIR$/retrofittest/retrofittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secret/secret.iml" filepath="$PROJECT_DIR$/secret/secret.iml" />
+      <module fileurl="file://$PROJECT_DIR$/williamchart/williamchart.iml" filepath="$PROJECT_DIR$/williamchart/williamchart.iml" />
     </modules>
   </component>
 </project>
